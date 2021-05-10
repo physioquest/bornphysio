@@ -479,6 +479,13 @@ http://www.tooplate.com/view/2098-health
     padding-bottom: 150px;
   }
 
+  @media only screen and (max-width: 600px) {
+
+    #about{
+      background: none;
+    }
+  }
+
   .profile img,
   .profile figcaption {
     display: inline-block;
