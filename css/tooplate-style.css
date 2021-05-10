@@ -122,6 +122,9 @@ http://www.tooplate.com/view/2098-health
     transform: translateY(-5px);
   }
 
+  .section-btn a{
+    color: #fff;
+  }
   .text-align-right {
     text-align: right;
   }
@@ -137,7 +140,7 @@ http://www.tooplate.com/view/2098-health
   }
 
   .btn-gray {
-    background: #393939;
+    background: #3f51b5;
   }
 
   .btn-blue {
@@ -405,6 +408,7 @@ http://www.tooplate.com/view/2098-health
   }
 
   .slider .container {
+    padding-left: 0  !important;
     width: 100%;
   }
 
