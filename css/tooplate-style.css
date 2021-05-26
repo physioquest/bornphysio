@@ -106,6 +106,10 @@ http://www.tooplate.com/view/2098-health
     -webkit-font-smoothing: antialiased;
   }
 
+  .modal-backdrop{
+    /* background: transparent !important; */
+  }
+
   a {
     color: #ffffff;
     -webkit-transition: 0.5s;
